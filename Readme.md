@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Steve Kibuika, a Software Engineer 👨‍💻 working with Javascript since 2019 🚀</div>  
   
 
 - 🌱 I’m currently learning AWS technologies  
