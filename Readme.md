@@ -6,13 +6,10 @@
 ### <div align="center">I'm Steve Kibuika, a Software Engineer 👨‍💻 working with Javascript since 2019 🚀</div>  
   
 
-- 🌱 I’m currently learning AWS technologies  
+- 🌱 I’m currently learning AWS technologies and GO  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I debug code in my sleep  
+- ❓ Ask me about anything related to Javascript
   
 
 <br/>  
