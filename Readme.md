@@ -6,7 +6,10 @@
 
 
 I am madly in love with Javascript and all I do is marvel at it. 
+
 I build applications for the web, mostly using React but I can pick up anything really.
+
+🌱 I’m currently learning Typescript and Go
 
 
 ### Skills
