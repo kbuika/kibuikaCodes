@@ -14,7 +14,6 @@ I build applications for the web, mostly using React but I can pick up anything 
 
 ### Skills
 
-Platform & Language
 
 ![](https://img.shields.io/badge/Javascript-f5d742?style=flat-square&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
