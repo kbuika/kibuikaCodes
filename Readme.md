@@ -4,10 +4,7 @@
 [![linkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/steve-kibuika/)
 [![gmail](https://img.shields.io/badge/-kibuikasteve@gmail.com-grey?style=flat-square&logo=gmail)](mailto://kibuikasteve@gmail.com)
 
-
-I am madly in love with Javascript and all I do is marvel at it. 
-
-I build applications for the web, mostly using React but I can pick up anything really.
+Code is my paint and the Web is the canvas I paint on.
 
 🌱 I’m currently learning Typescript and Go
 
