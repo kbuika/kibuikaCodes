@@ -27,7 +27,7 @@ Tools
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibuikaCodes&layout=compact&langs_count=7&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibuikaCodes&layout=compact&langs_count=7&theme=vision-friendly-dark&exclude_repo=Tz_money_competition,Big_mart-sales-prediction,Exploratory-Data-analysis-on-Twitter-Data,Depression-prediction,traffic_jam_model,predicting_house_prices)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
