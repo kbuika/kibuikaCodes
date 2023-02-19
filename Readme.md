@@ -6,19 +6,22 @@
 
 Code is my paint and the Web is the canvas I paint on.
 
-🌱 I’m currently learning Typescript and Go
+🌱 Currently, I am tinkering with Typescript, WebAssembly and Browser Extensions
+
+When I am not coding - I Co-host [The Concurrency Podcast](https://kibuika.com/pod)
 
 
 ### Skills
 
 
 ![](https://img.shields.io/badge/Javascript-f5d742?style=flat-square&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+
 
 <!-- ![](https://img.shields.io/badge/CSS-764ABC?style=flat-square&logo=css&logoColor=white) -->
-<!-- ![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white) -->
-<!-- ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) -->
-<!-- ![](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white) -->
 
 
