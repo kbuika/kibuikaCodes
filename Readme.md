@@ -1,3 +1,5 @@
+![profile](/img/me.jpg)
+
 ### 👋 Hello there, I'm Steve Kibuika
 
 [![blog](https://img.shields.io/badge/-Blog-white?style=flat-square)](https://kibuika.com/)
@@ -7,8 +9,6 @@
 Code is my paint and the Web is the canvas I paint on.
 
 🌱 Currently, I am tinkering with Typescript, WebAssembly and Browser Extensions
-
-When I am not coding - I Co-host [The Concurrency Podcast](https://kibuika.com/pod)
 
 
 ### Skills
@@ -25,13 +25,30 @@ When I am not coding - I Co-host [The Concurrency Podcast](https://kibuika.com/p
 <!-- ![](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white) -->
 
 
-Tools
+### Tools
 
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibuikaCodes&layout=compact&langs_count=7&theme=vision-friendly-dark&exclude_repo=Tz_money_competition,Big_mart-sales-prediction,Exploratory-Data-analysis-on-Twitter-Data,Depression-prediction,traffic_jam_model,predicting_house_prices)](https://github.com/anuraghazra/github-readme-stats)
 
+### Podcast
+
+When I am not coding - I Co-host [The Concurrency Podcast](https://kibuika.com/pod)
+
+* [Listen on Spotify](https://open.spotify.com/show/2vzZKrgItaj0hLbevnG8sM)
+* [Listen on Apple Podcasts](https://podcasts.apple.com/ke/podcast/the-concurrency-podcast/id1667231096)
+* [Listen on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9hZGY1NmRkMC9wb2RjYXN0L3Jzcw)
+* [Follow on Twitter](https://twitter.com/concurrencypod)
+
+
+### 📫 Contact
+
+* [kibuikasteve@gmail.com](mailto:kibuikasteve@gmail.com)
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibuikaCodes&layout=compact&langs_count=7&theme=vision-friendly-dark&exclude_repo=Tz_money_competition,Big_mart-sales-prediction,Exploratory-Data-analysis-on-Twitter-Data,Depression-prediction,traffic_jam_model,predicting_house_prices)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
