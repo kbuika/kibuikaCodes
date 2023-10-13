@@ -6,7 +6,6 @@
 [![linkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/steve-kibuika/)
 [![gmail](https://img.shields.io/badge/-kibuikasteve@gmail.com-grey?style=flat-square&logo=gmail)](mailto://kibuikasteve@gmail.com)
 
-Code is my paint and the Web is the canvas I paint on.
 
 🌱 Currently, I am tinkering with Typescript, WebAssembly and Browser Extensions
 
@@ -48,7 +47,6 @@ When I am not coding - I Co-host [The Concurrency Podcast](https://kibuika.com/p
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibuikaCodes&layout=compact&langs_count=7&theme=vision-friendly-dark&exclude_repo=Tz_money_competition,Big_mart-sales-prediction,Exploratory-Data-analysis-on-Twitter-Data,Depression-prediction,traffic_jam_model,predicting_house_prices)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
