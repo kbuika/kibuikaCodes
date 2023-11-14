@@ -1,4 +1,3 @@
-![profile](/img/me.jpg)
 
 ### 👋 Hello there, I'm Steve Kibuika
 
@@ -7,14 +6,11 @@
 [![gmail](https://img.shields.io/badge/-kibuikasteve@gmail.com-grey?style=flat-square&logo=gmail)](mailto://kibuikasteve@gmail.com)
 
 
-🌱 Currently, I am working on a ticketing platform [Tikomatata](https://tikomatata.com)
-
-
 <!-- ![](https://img.shields.io/badge/CSS-764ABC?style=flat-square&logo=css&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white) -->
 
 
-When I am not coding - I Co-host [The Concurrency Podcast](https://kibuika.com/pod)
+I once co-hosted a podcast -  [The Concurrency Podcast](https://kibuika.com/pod)
 
 
 <!--
